@@ -1,0 +1,33 @@
+{
+  "name": "eventbookingsystem",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "eventbookingsystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kudisll/eventbookingsystem"
+  },
+  "website": "https://github.com/kudisll/eventbookingsystem.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "kudisll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kudisll/eventbookingsystem/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/kudisll/eventbookingsystem#readme",
+  "dependencies": {
+    "operationmaintenance": "1.0.2"
+  }
+}
